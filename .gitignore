@@ -1,2 +1,5 @@
 node_modules/
 public/generated_videos/
+istl.json
+.env
+.next
